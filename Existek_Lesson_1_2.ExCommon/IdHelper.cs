@@ -1,6 +1,6 @@
-﻿namespace Existek_Lesson_1_2.SimpleClasses
+﻿namespace Existek_Lesson_1_2.ExCommon
 {
-    class IdHelper
+    public class IdHelper
     {
         private static int _idCounter;
 

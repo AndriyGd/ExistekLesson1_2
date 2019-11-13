@@ -8,6 +8,7 @@ namespace Existek_Lesson_1_2.SimpleClasses
 {
     using System.Collections;
     using System.Runtime.InteropServices;
+    using ExCommon;
 
     class Program
     {
