@@ -12,7 +12,7 @@ namespace Lesson7.Events
     {
         static void Main(string[] args)
         {
-#if true
+#if false
             var p = new Person("John");
             var p2 = new Person("Tom");
             var m = new Manager(new List<Person> { p, p2 });
