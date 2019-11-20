@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Existek_Lesson_1.2.Interfac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lessson6.Interfaces", "Lessson6.Interfaces\Lessson6.Interfaces.csproj", "{AE160292-7E6E-4C0C-87CF-6C1A7F735826}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson7.Events", "Lesson7.Events\Lesson7.Events.csproj", "{BC8E65B4-5C36-4FE1-8B0C-4273CD55F13C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{AE160292-7E6E-4C0C-87CF-6C1A7F735826}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE160292-7E6E-4C0C-87CF-6C1A7F735826}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE160292-7E6E-4C0C-87CF-6C1A7F735826}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC8E65B4-5C36-4FE1-8B0C-4273CD55F13C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC8E65B4-5C36-4FE1-8B0C-4273CD55F13C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC8E65B4-5C36-4FE1-8B0C-4273CD55F13C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC8E65B4-5C36-4FE1-8B0C-4273CD55F13C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
