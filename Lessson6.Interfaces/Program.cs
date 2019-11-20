@@ -8,6 +8,7 @@ namespace Lessson6.Interfaces
 {
     delegate void PrintHello(string message);
 
+    delegate int SumDlg(int a, int b);
     class Program
     {
         static void Main(string[] args)
@@ -68,7 +69,12 @@ namespace Lessson6.Interfaces
 
             print -= ShowMessage;
             Console.WriteLine();
-            print("Lesson 6");
+            print.Invoke("Lesson 6");
+
+            var dlgSum = new SumDlg(Sum);
+
+            var s = dlgSum.Invoke(45, 89);
+            Console.WriteLine($"Res = {s}");
 
             Console.ReadLine();
         }
@@ -76,6 +82,11 @@ namespace Lessson6.Interfaces
         private static void ShowMessage(string message)
         {
             Console.WriteLine($"Call ShowMessage: {message}");
+        }
+
+        private static int Sum(int a, int b)
+        {
+            return a + b;
         }
 
         private static void ChangeSequence(ISequence item, int newPos)
