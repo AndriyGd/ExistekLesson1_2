@@ -65,7 +65,7 @@ namespace Lesson8.Generics
             //{
             //    Console.WriteLine(item);
             //}
-            cw
+            
             var it = GetNext();
 
             Console.WriteLine("JK");
