@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson11.XML", "Lesson11.XM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson12.Reflaection", "Lesson12.Reflaection\Lesson12.Reflaection.csproj", "{C1F007C1-C5C9-4A90-B876-FB3FC9CE11E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson13.Serialization", "Lesson13.Serialization\Lesson13.Serialization.csproj", "{190CBDE4-3E07-415F-AA62-76C7CBBFBDA6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{C1F007C1-C5C9-4A90-B876-FB3FC9CE11E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1F007C1-C5C9-4A90-B876-FB3FC9CE11E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1F007C1-C5C9-4A90-B876-FB3FC9CE11E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{190CBDE4-3E07-415F-AA62-76C7CBBFBDA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{190CBDE4-3E07-415F-AA62-76C7CBBFBDA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{190CBDE4-3E07-415F-AA62-76C7CBBFBDA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{190CBDE4-3E07-415F-AA62-76C7CBBFBDA6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
