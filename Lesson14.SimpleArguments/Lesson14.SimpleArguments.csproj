@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EA6276DC-2002-4CB9-8FC0-FD8274137629}</ProjectGuid>
+    <ProjectGuid>{43CF6EB8-7FDF-4D67-88E7-21405B811E07}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Lesson14.ProcessesThreads</RootNamespace>
-    <AssemblyName>Lesson14.ProcessesThreads</AssemblyName>
+    <RootNamespace>Lesson14.SimpleArguments</RootNamespace>
+    <AssemblyName>Lesson14.SimpleArguments</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -32,9 +32,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Existek_Lesson_1_2.ExCommon">
-      <HintPath>..\Existek_Lesson_1_2.ExCommon\bin\Debug\Existek_Lesson_1_2.ExCommon.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
