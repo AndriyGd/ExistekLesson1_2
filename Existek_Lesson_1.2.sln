@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson12.Reflaection", "Les
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson13.Serialization", "Lesson13.Serialization\Lesson13.Serialization.csproj", "{190CBDE4-3E07-415F-AA62-76C7CBBFBDA6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson14.ProcessesThreads", "Lesson14.ProcessesThreads\Lesson14.ProcessesThreads.csproj", "{EA6276DC-2002-4CB9-8FC0-FD8274137629}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{190CBDE4-3E07-415F-AA62-76C7CBBFBDA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{190CBDE4-3E07-415F-AA62-76C7CBBFBDA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{190CBDE4-3E07-415F-AA62-76C7CBBFBDA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA6276DC-2002-4CB9-8FC0-FD8274137629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA6276DC-2002-4CB9-8FC0-FD8274137629}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA6276DC-2002-4CB9-8FC0-FD8274137629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA6276DC-2002-4CB9-8FC0-FD8274137629}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
