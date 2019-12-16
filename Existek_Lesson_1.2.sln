@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson17.SimpleLINQ", "Less
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson18.RESTApi", "Lesson18.RESTApi\Lesson18.RESTApi.csproj", "{233BCD1F-7DF9-489B-B0DB-DBF6243931FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson18.EntityFramework", "Lesson18.EntityFramework\Lesson18.EntityFramework.csproj", "{53079DD0-D452-4F49-ABC5-B5C02BA0CA18}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{233BCD1F-7DF9-489B-B0DB-DBF6243931FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{233BCD1F-7DF9-489B-B0DB-DBF6243931FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{233BCD1F-7DF9-489B-B0DB-DBF6243931FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53079DD0-D452-4F49-ABC5-B5C02BA0CA18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53079DD0-D452-4F49-ABC5-B5C02BA0CA18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53079DD0-D452-4F49-ABC5-B5C02BA0CA18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53079DD0-D452-4F49-ABC5-B5C02BA0CA18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
