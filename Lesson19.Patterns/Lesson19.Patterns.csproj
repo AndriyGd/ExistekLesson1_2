@@ -41,8 +41,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="SingletonModels\CreateOrder.cs" />
+    <Compile Include="SingletonModels\Manager.cs" />
+    <Compile Include="SingletonModels\ManagerSingleton.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SingletonModels\ReportOrder.cs" />
+    <Compile Include="SingletonModels\Repository.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
