@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson18.RESTApi", "Lesson1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson18.EntityFramework", "Lesson18.EntityFramework\Lesson18.EntityFramework.csproj", "{53079DD0-D452-4F49-ABC5-B5C02BA0CA18}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson19.Patterns", "Lesson19.Patterns\Lesson19.Patterns.csproj", "{C2226457-1862-43B6-9A40-08D387FC73C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{53079DD0-D452-4F49-ABC5-B5C02BA0CA18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53079DD0-D452-4F49-ABC5-B5C02BA0CA18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53079DD0-D452-4F49-ABC5-B5C02BA0CA18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2226457-1862-43B6-9A40-08D387FC73C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2226457-1862-43B6-9A40-08D387FC73C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2226457-1862-43B6-9A40-08D387FC73C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2226457-1862-43B6-9A40-08D387FC73C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
